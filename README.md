@@ -1,4 +1,4 @@
-# UBC CPEN 322 Test Files
+# UBC CPEN 320 Test Files
 
 This repository hosts obfuscated test files for CPEN 322 assignments.
 
