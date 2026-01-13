@@ -1,6 +1,6 @@
 # UBC CPEN 320 Test Files
 
-This repository hosts obfuscated test files for CPEN 322 assignments.
+This repository hosts obfuscated test files for CPEN 320 assignments.
 
 ## Obfuscated Test Files
 - `obfuscated/test-a1.js` - Assignment 1 test file
